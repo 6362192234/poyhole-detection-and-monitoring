@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pothole-detection-system-99f3c",
+  "private_key_id": "8b76ce60d4c308014158a58445ddb164eb8007c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqu5gE/tp8d/Lk\nklwmLTukBgNAINBq0YikmvgM+AB+1JkJu7Qo1FWx9o2aS1uc3iCziLsytscstm2Z\nk5B2XkqbfF43SFdGemKZmzo9Flqng19IUU2gfJD305g00PuhZK0QjVAgb1Ib9K2e\n6mVmqIMUDwwiFbu5H+DDu4UKS+E5k2MoEjaNGFdIWbkyen53mJowNuz2NGFDhv9Z\n/6x1Ap52GmZdnE5JZsRLZyIPOtaCnuRqDihNTms+im1Ma90cihdrIG2gj41uqk59\nEE9tBlzy0+vaY24kxWy8Joi4WMIaBkrMRL3PwJ6rKK4TFrMZJ6Nb3fhrTz+lQlP9\nTHv3erbzAgMBAAECggEACSM0HiRTpjC3P7Nzmhl2pS8rMl3vOaBQO1sN5ofJYwBW\n1nYEzOCcW4NyDa110D31KxaoyiyNGWAEGqGSrDscrBiqZDQLc7quF0F/CvDs1iVK\nTrEHQg0YpyLcdQswRHGCb63YeXvrvZJJToWF+soPBd5OTG60VtKVcXRSSPxJqA6c\nRkADl7ysx15oTnFae7ZpCdouSrJy7ouSG2ahm+jn6Nsij5Y3h1St/EZvCskY+pmv\nmTvzOWQwZa2t2XWa9vOJwOvFDV9yr0H84n8b/zPGly94nHRESao/OLu10pV7UCek\noSIDlluITmIKPvrClePJWVdSFkE/ia4DP6kbXmhrwQKBgQDsa0OOXFI/N1ffbm0x\nqfuZfAqnVaDwzs/W9+v55n5st98wh7oG+plhQjb6Cf5MwFGmyxjrFgLl6gTgu5jM\nDibL5GPC27hpho7mpKKztewBhJFavRMq6BtkYfLXpx+Q1tVxo4wjvsP94ggZ0prI\nJrEaJIOXmn2hUUGzELaWIGEYQQKBgQC435nKLxNZWYF0ZgiiX/7SoVOQjofcjJ5L\ndIZudRRbEiA/dBkn64/faHpS66T/uibV1wtkv+6WhzSINoHNP2XoVziZm0+i/2CM\nxxgkQArKJ2wTEoU7sBb5Iti/GH/11230JNekOIloMNosnBTkg2xo8meqvtb2LC9F\nra6HUlpiMwKBgQCAcSIJtMSGTbXy0FaIldX4I/jRwmamjWVDX/wXD49910NtZT++\nzOUJfuTJYSaEYjO6DzshdRrr+ADga2ru6X1QZmuAkMiWpCD801MFmX93r6Mcjf5c\n4C8JkWFSohw3H1Bk5bqcLObkBqnqBY5L0SGEl3PaqHc6bh/ofdsEouC9QQKBgHVI\nJOBHDRdZ2O5m7INWMuqcvc6vHTGlY6aqvb3FOKytyxd2J59TqWopdbC1HW++QHTY\nf7niqRGFpKXlLmNvHM9Qxe9swBC/whiNFZuppS6p474VucAr7ecPXEGe4U6s5GxG\nEydzVnhqxX4XZomxdkz9uxZvCyAQ18x0aoweiohRAoGAUFVpKCF6VhlMPI/ZVoKa\n345FBKqSd/k3iIhE+cri4v7xHnzGhbvV7IPNeg3MeyNa3kpUToWgP+t/abhdIkRX\nbGFTSqtrmBzy9fl0w3raO667wCYO9CGm0xhzheQdpuYt2dnIIB7kQbG5RuUv/eH0\njwEDkHx1QCRzdc3ptsLDNIE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@pothole-detection-system-99f3c.iam.gserviceaccount.com",
+  "client_id": "100717969544614708660",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40pothole-detection-system-99f3c.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

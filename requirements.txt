@@ -1,0 +1,9 @@
+flask
+ultralytics
+firebase-admin
+python-dotenv
+requests
+twilio
+matplotlib
+pandas
+
